@@ -26,5 +26,5 @@
 <!--end: docs-->
 
 <!--start: logo-->
-<p>This page is <a href="https://github.com/upptime/upptime">open source</a>, powered by <a href="https://upptime.js.org">Upptime</a></p>
+
 <!--end: logo-->
